@@ -1,4 +1,4 @@
-# Data Cleaning and Exploratory Data Analysis in MySQL
+# Global Layoffs Data Cleaning & Architecture in MySQL
 
 ## Introduction
 
