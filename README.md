@@ -1,4 +1,4 @@
-# Global Layoffs Data Cleaning & Architecture in MySQL
+# Global Layoffs Data Cleaning & EDA in MySQL
 
 ## Introduction
 
